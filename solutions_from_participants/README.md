@@ -1,4 +1,4 @@
-# Lab Solutions From Participants
+# Laborat Solutions From Participants
 
 This folders contains the solutions to the labs from the particiapnts. It is encouraged but not required for participants to include their solutions here. If you are interested in sharing your approach to the labs please do submit a PR with your solution notebooks.
 
